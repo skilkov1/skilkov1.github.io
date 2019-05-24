@@ -1,0 +1,142 @@
+@font-face {
+    font-family: 'SSSR';
+    src: url('SSSR.ttf');
+}
+.H11 {
+   text-align: center;
+   font-family: 'SSSR';
+   font-size: 70px;
+}
+.Kartina1 {
+    background-image: url("1361761532_BA4599A1-36DE-4092-AC83-B446C907714C_mw800_mh600_s.jpg");
+    height: 450px;
+    width: 450px;
+    -webkit-background-size: ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    left:auto;
+}
+.Kartina2 {
+    background-image: url("flag.jpg");
+    height: 450px;
+    width: 450px;
+    -webkit-background-size: ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left:  50%;
+}
+.kartiny {
+    display: flex;
+    width: auto;
+    height: 500px;
+}
+ul {
+    font-size: 25px;
+    
+}
+.main5 {
+    text-align: center;
+}
+.main1 {
+    text-align: center;
+}
+    .main2 {
+text-align: center;
+}
+    .main4 {
+text-align: center;
+}
+            .main3 {
+text-align: center;
+}
+.header1 {
+    text-align: center;
+}
+.h2-1 {
+    text-align: center;
+}
+
+}
+.div1 {
+    width: auto;
+    height: 400;
+}
+.ul1 {
+    font-size: 20px;
+}
+.div2 {
+    width: 300px;
+    height: 200px;
+    background-image: url("https://www.wikireading.ru/img/406636_22_i_071.jpg");
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.div3 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://aeslib.ru/wp-content/uploads/2016/12/10226.jpg");
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.div4 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://novvedomosti.ru/images/news/53891-37-news-image.jpg");
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.div5 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://www.culture.ru/storage/images/6fde3e0e8b8d907c8adfb4082c69fc6a/c63f9ed5272f9b863317366922b8058e.jpg");
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.div6 {
+    width: 200px;
+    height: 200px;
+    background-image: url("http://www.museikino.ru/upload/iblock/e93/e932436b7ff74db3b96e00280b2804dc.jpg");
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.div7 {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://avatars.mds.yandex.net/get-pdb/1780055/6f50a91b-5629-42a7-970f-459fcb169704/s1200?webp=false");
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+
+.div8 {
+    width: 200px;
+    height: 200px;
+    background-image: url("http://itd3.mycdn.me/image?id=869901693916&t=20&plc=WEB&tkn=*sSzGS_Vcqzre_b6HhCGC9HXAEbY");
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+
+.header1 {
+    text-align: center;
+}
+.header2 {
+    text-align: center;
+}
+.header3 {
+    text-align: center;
+}
